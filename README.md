@@ -1,5 +1,6 @@
 # 💫 About Me:
-Im currently studying B.Tech Computer and Communication Engineering<br>Im looking to collaborate with web developers<br>Im looking for help with building an website<br>Im currently learning AI and ML Essentials at IIT Patna's online certification<br><br>I want to build game by the end of my Degree<br><br>I play games
+Im currently studying B.Tech Computer and Communication Engineering<br>Im looking to collaborate with web developers<br>Im looking for help with building an website<br>Im currently learning AI and ML Essentials at IIT Patna's online certification<br><br>I want to build game by the end of my Degree<br>
+
 
 
 ## 🌐 Socials:
